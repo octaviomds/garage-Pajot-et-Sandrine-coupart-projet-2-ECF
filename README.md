@@ -11,7 +11,7 @@ Tested up to: 5.9
 Les fichiers html permet de récupérer les contenu afin de créer une application native pour iOS et/ou Android
 
 == Installation ==
-
+API JavaScript
 Vous pouvez personnaliser la sortie HTML(en local) de vos prototypes de plusieurs manières les fichiers HTML. Vous pouvez accéder à ces paramètres à partir de n'importe quelle boîte de dialogue de publication HTML.Vous pouvez créer et enregistrer plusieurs ensembles de paramètres de générateur HTML à utiliser dans différents contextes de publication. Par exemple, vous pouvez avoir un ensemble, avec toutes les pages incluses, que vous utilisez pendant que vous travaillez activement sur votre prototype et un deuxième ensemble, avec uniquement les pages terminées incluses, que vous utilisez lors de la publication pour vos parties prenantes.
 
 
