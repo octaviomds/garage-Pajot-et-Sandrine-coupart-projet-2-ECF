@@ -1,5 +1,5 @@
 # garage-Pajot-et-Sandrine-coupard-2
-NOUVEAU README
+
 === application (garage v pavot )prototype ===
 Contributors: Lollia Stanley
 Tags:  apps, iOS, Android,  apps, iPhone
