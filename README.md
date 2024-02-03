@@ -2,7 +2,7 @@
 NOUVEAU README
 === application (garage v pavot )prototype ===
 Contributors: Lollia Stanley
-Tags: native apps, iOS, Android,  apps, iPhone
+Tags:  apps, iOS, Android,  apps, iPhone
 
 Requires at least: 2.8
 Tested up to: 5.9
