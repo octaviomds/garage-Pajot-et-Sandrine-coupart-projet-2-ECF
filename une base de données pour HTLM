@@ -1,0 +1,17 @@
+<?php
+$dsn = 'mysql:host=ADRESSE_DU_SERVEUR;dbname=VOTRE_BASE_DE_DONNEES;
+port=VOTRE_PORT;charset=VOTRE_ENCODAGE';
+
+$ = new ($dsn, 'VOTRE_NOM_UTILISATEUR_SERVEUR' , 'VOTRE_MOT_DE_PASSE'); ?>
+
+
+<php?
+$UTILISATEUR_Result= mysql_query ( SELECT * FROM UTILISATEUR) ;
+?>
+
+
+
+<php?
+while($utilisateur= mysql_fetch_array($utilisateur_result))
+{ echo ".$utilisateur['Nom']."; }
+?>
