@@ -1,0 +1,5 @@
+Prérequis
+* Git
+* Compte Heroku
+* Heroku CLI
+Créer un répertoire pour le projet. Nous connecterons ce répertoire à notre application Heroku afin que chaque fois que nous mettrons à jour le fichier HTML local, les modifications se reflètent sur le site Web hébergé.
